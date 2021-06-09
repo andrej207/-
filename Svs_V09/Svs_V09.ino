@@ -10,7 +10,7 @@
 #include <TimeLib.h>
 #include <DS1307RTC.h>
 #include <EEPROM.h>
-//тест гитхаба
+
 UTFT myGLCD(ILI9488, 38, 39, 40, 41);
 
 #include "AddPicture.h"
